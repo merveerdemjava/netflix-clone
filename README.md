@@ -1,4 +1,2 @@
-# HTMLPROJE
- # NETFLİX 
-# netflix-clone
+HTML, CSS için örnek çalışma
 # netflix-clone
